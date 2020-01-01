@@ -1,32 +1,27 @@
 /instance.cfg
 /natives/
 
-/.minecraft/crash-reports/
-/.minecraft/llibrary/
-/.minecraft/local/
-/.minecraft/logs/
-/.minecraft/mods/OpenTerrainGenerator/worlds/
-/.minecraft/saves/
-/.minecraft/journeymap/
+/minecraft/crash-reports/
+/minecraft/llibrary/
+/minecraft/local/
+/minecraft/logs/
+/minecraft/mods/memory_repo/
+/minecraft/.mixin.out/
+/minecraft/mods/OpenTerrainGenerator/worlds/
+/minecraft/saves/
+/minecraft/journeymap/
 
-/.minecraft/icon.png
-/.minecraft/options.txt
-/.minecraft/usercache.json
-/.minecraft/usernamecache.json
-/.minecraft/OpenComputersMod-1.7.4.153-lua52-native.64.dll
-/.minecraft/OpenComputersMod-1.7.4.153-lua53-native.64.dll
-/.minecraft/OpenComputersMod-1.7.4.153-lua53-native.64.dylib
+/minecraft/icon.png
+/minecraft/options.txt
+/minecraft/usercache.json
+/minecraft/usernamecache.json
+/minecraft/OpenComputersMod-1.7.4.153-lua52-native.64.dll
+/minecraft/OpenComputersMod-1.7.4.153-lua53-native.64.dll
+/minecraft/OpenComputersMod-1.7.4.153-lua53-native.64.dylib
 
-/.minecraft/local/ftbutilities/all_permissions.html
-/.minecraft/local/ftbutilities/all_permissions_full_list.txt
+/minecraft/local/ftbutilities/all_permissions.html
+/minecraft/local/ftbutilities/all_permissions_full_list.txt
 
 *.log
 
-/.minecraft/config/**/*.*
-!/.minecraft/config/AppliedEnergistics2/extracells.cfg
-!/.minecraft/config/brandon3055/CustomFusionRecipes.json
-!/.minecraft/config/brandon3055/DraconicEvolution.cfg
-!/.minecraft/config/extendedcrafting.cfg
-!/.minecraft/config/extrautils2.cfg
-!/.minecraft/config/morpheus.cfg
-!/.minecraft/config/ice_and_fire.cfg
+/minecraft/config/**/*.*
