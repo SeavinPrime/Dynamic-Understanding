@@ -4,4 +4,4 @@ Minecraft Modpack
 
 ## Modlist
 
-- To be determined
+- See modlist.html
