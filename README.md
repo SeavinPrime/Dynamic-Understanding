@@ -1,6 +1,6 @@
 # Dynamic Understanding
 
-Minecraft Modpack
+A Minecraft modpack
 
 ## Modlist
 
