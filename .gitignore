@@ -2,6 +2,7 @@
 /natives/
 
 /minecraft/crash-reports/
+/minecraft/fonts/
 /minecraft/llibrary/
 /minecraft/local/
 /minecraft/logs/
@@ -11,8 +12,10 @@
 /minecraft/saves/
 /minecraft/journeymap/
 
+/minecraft/BotaniaVars.dat
 /minecraft/icon.png
 /minecraft/options.txt
+/minecraft/patchouli_data.json
 /minecraft/usercache.json
 /minecraft/usernamecache.json
 /minecraft/OpenComputersMod-1.7.4.153-lua52-native.64.dll
@@ -24,4 +27,4 @@
 
 *.log
 
-/minecraft/config/**/*.*
+/minecraft/config/**/*
