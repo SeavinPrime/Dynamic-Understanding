@@ -7,8 +7,8 @@ A Minecraft modpack
 ...
 
 ## Update instructions (For those with Git)
-1. Checkout the release branch (git checkout release).
-2. Pull changes from repo (git pull origin release).
+1. Checkout the release branch (```git checkout release```).
+2. Pull changes from repo (```git pull origin release```).
 
 ## Update instructions (For those without Git)
 1. Obtain Git.
